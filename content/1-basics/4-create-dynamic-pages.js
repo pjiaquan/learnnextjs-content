@@ -165,7 +165,7 @@ const Content = (props) => (
   </div>
 )
 
-export default () => (
+export default (props) => (
     <Layout>
        <Content />
     </Layout>
